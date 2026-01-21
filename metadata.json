@@ -1,0 +1,8 @@
+{
+  "name": "OmniSpeak XR",
+  "description": "An XR-enabled Augmentative and Alternative Communication (AAC) tool. It uses the camera and AI to identify objects and generate context-aware communication cards, lowering the barrier for expression.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
